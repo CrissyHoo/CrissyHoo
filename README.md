@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😜 I'm currently a student in Wuhan University. My major is computer science. And I'm trying to do some research in computer vision. I'm really interested about it! Now I'm working on super-resolution problems.
+
 ✨ I have many interests, like economics, translation, psychology, music, all kinds of creative work(writing, composing and so on). I love guitar and piano!  
+
 🎈 I'm a typical ENFP(the MBTI type).
 (●'◡'●)Hope I can give some useful output in my github account! 
