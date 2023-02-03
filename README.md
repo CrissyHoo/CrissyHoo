@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😜 I'm currently a student in Wuhan University. My major is computer science. And I'm trying to do some research in computer vision. I'm really interested about it! Now I'm working on super-resolution problems.
+😜 I'm currently a student in Wuhan University. My major is computer science. And I'm trying to do some research in computer vision. Now I'm working on super-resolution problems.
 
 (●'◡'●)Hope I can give some useful output in my github account! 
